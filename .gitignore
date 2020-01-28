@@ -1,0 +1,9 @@
+normal/
+malware/
+.ipynb_checkpoints/
+files/
+__pycache__
+*.db
+*.crt
+*.pem
+*.pickle
